@@ -9,5 +9,5 @@ O objetivo foi criar uma landing page moderna e responsiva para uma cafeteria fi
 🚀 Em constante evolução!
 
 Desenvolvido por [kaique Carvalho]
-🔗 **Acesse o site:** [Clique aqui para ver o projeto no ar]()
+🔗 **Acesse o site:** [Clique aqui para ver o projeto no ar](https://kaiquecarv013.github.io/SiteCafeteriaDevClub/)
 
